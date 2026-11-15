@@ -2,7 +2,7 @@
 
 실행: index.html을 브라우저로 엽니다.
 배포: main 브랜치의 루트에서 GitHub Pages로 제공합니다.
-페이지: https://kim-81.github.io/resumetest/
+페이지: https://kim-81.github.io/resume1/
 
 파일 안내
 - index.html: 소개, 사용 도구, 창작물, 경력 및 학력·수상
